@@ -1,5 +1,5 @@
 {
-  "name": "proto-npm-quiz",
+  "name": "@anaiel/proto-npm-quiz",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
